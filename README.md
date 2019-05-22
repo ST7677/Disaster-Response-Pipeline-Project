@@ -4,6 +4,7 @@ Udacity Data Science Nano Degree - Project 5
 ## Project Motivation
 
 In this project, we use Data Engineering skills to analyze disaster response data to build a model for an API that classifies disaster messages.
+Figure Eight has provided thousands of messages that have been sorted into 36 categories. This will help emergency workers analyze incoming messages and sort them into specific categories to speed up aid and contribute to more efficient distribution of people and other resources. The ML model is more accurate than simple keyword search.
 
 ## File Description
 
@@ -35,5 +36,7 @@ In this project, we use Data Engineering skills to analyze disaster response dat
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+4. Type in: We have a lot of problem at Delma 75 Avenue Albert Jode, those people need water and food.
 
 ![ScreenShot](Project5Screenshot.png)
