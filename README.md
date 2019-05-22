@@ -37,6 +37,4 @@ Figure Eight has provided thousands of messages that have been sorted into 36 ca
 
 3. Go to http://0.0.0.0:3001/
 
-4. Type in: We have a lot of problem at Delma 75 Avenue Albert Jode, those people need water and food.
 
-![ScreenShot](Project5Screenshot.png)
