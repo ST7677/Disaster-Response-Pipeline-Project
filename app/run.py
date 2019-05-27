@@ -60,7 +60,7 @@ def index():
                     'title': "Count"
                 },
                 'xaxis': {
-                    'title': "Source"
+                    'title': "Genre"
                 }
             }
         },
