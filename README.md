@@ -37,7 +37,7 @@ Figure Eight has provided thousands of messages that have been sorted into 36 ca
 
 3. Go to http://0.0.0.0:3001/
 
-![ScreenShot](Project5Screenshot1.png)
-![ScreenShot](Project5Screenshot2.png)
-![ScreenShot](Project5Screenshot3.png)
-![ScreenShot](Project5Screenshot4.png)
+![Project5Screenshot1](Project5Screenshot1.png)
+![Project5Screenshot2](Project5Screenshot2.png)
+![Project5Screenshot3](Project5Screenshot3.png)
+![Project5Screenshot4](Project5Screenshot4.png)
